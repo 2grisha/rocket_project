@@ -1,0 +1,53 @@
+body, ul {
+	margin: 0;
+	padding: 0;
+}
+
+header ul {
+	list-style: none;
+	padding-top: 12px;
+	
+}
+header li { 
+	display: inline-block;
+	margin-left: 50px;
+	font-family: "Comic Sans MS";
+	color: #b4b4b4;
+}
+header li:first-child {
+	margin-left: 0px;
+}
+header li:hover {
+	color: #fff;
+}
+header {
+	background: #1d1d1d;
+	height: 47px;
+	text-align: center;
+	
+}
+main {
+	margin-left: 18px;
+}
+footer {
+	color: #b4b4b4;
+	vertical-align: center;
+	text-align: center;
+	background:#1d1d1d;
+	height:50px;
+}
+.rights:hover {
+	color: #fff;
+
+}
+
+.rights {
+	width: 200px;
+	display: inline-block;
+	margin-top: 7px;
+}
+.article_title {
+	text-align: cent1
+#space {
+	opacity: 1;
+}
