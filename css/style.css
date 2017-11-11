@@ -47,7 +47,15 @@ footer {
 	margin-top: 7px;
 }
 .article_title {
-	text-align: cent1
+	text-align: center;
+}
 #space {
 	opacity: 1;
+}
+#leftcol { /* Левая колонка */
+ float: left; /* Обтекание справа */
+ width: 200px; /* Ширина колонки */
+}
+#rightcol { /* Правая колонка */
+ margin-left: 220px; /* Отступ слева */
 }
